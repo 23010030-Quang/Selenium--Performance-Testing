@@ -1,8 +1,8 @@
 # BÁO CÁO BÀI TẬP: KIỂM THỬ TỰ ĐỘNG VỚI SELENIUM
 
 ## 1. Thông Tin Sinh Viên
-* **Họ và tên:** Vương Xuân Giáp
-* **Mã sinh viên:** 23010564
+* **Họ và tên:** Đặng Minh Quang
+* **Mã sinh viên:** 23010030
 * **Môn học:** Đảm bảo chất lượng và Kiểm thử phần mềm
 
 ## 2. Kịch Bản Kiểm Thử (Test Cases)
